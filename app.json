@@ -1,17 +1,17 @@
 {
   "expo": {
-    "name": "crux",
-    "slug": "crux",
+    "name": "feriantes-app",
+    "slug": "feriantes-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "crux",
+    "scheme": "feriantes-app",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
     },
     "android": {
-      "package": "dev.alhill.cruxapp",
+      "package": "dev.alhill.feriantesapp",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -35,7 +35,8 @@
             "imageWidth": 76
           }
         }
-      ]
+      ],
+      "@react-native-community/datetimepicker"
     ],
     "experiments": {
       "typedRoutes": true,

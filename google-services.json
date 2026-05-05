@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563848776837",
+    "project_id": "feriantes-5288d",
+    "storage_bucket": "feriantes-5288d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563848776837:android:b8ef0b5a20c28e4a43edec",
+        "android_client_info": {
+          "package_name": "dev.alhill.feriantesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvHA70G6-Tv6mNciCFchr35mMAZf_W3ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

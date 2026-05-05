@@ -1,4 +1,4 @@
-# Crux
+# feriantes-app
 
 Base mobile app with Expo + Expo Router, Firebase, NativeWind, Zustand persistence, React Hook Form, and Firebase Functions as the server-side AI + R2 layer.
 
